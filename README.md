@@ -51,7 +51,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://seon-xero.tistory.com/)">
-    <img src="https://img.shields.io/badge/티스토리-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tstory-1EBC8F?style=for-the-badge&logo=티스토리&logoColor=white" />&nbsp
   </a>
   <a href="mailto:seon.xero@gmail.com">
     <img
