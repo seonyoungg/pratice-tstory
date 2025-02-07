@@ -1,5 +1,7 @@
 <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SEONYOUNG&fontSize=80" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SEONYOUNG&fontSize=80" />
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
