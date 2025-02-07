@@ -20,16 +20,11 @@
 
 <br>
 
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
+<!-- <div align="center"> -->
+<!--   <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/next.js-3578E5?style=for-the-badge&logo=Next.js&logoColor=white" />&nbsp
-<!--   <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp -->
-</div>
-
-<br>
+  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp -->
+<!-- </div> -->
 
 <h3 align="center">🛠 Tools 🛠</h3>
 <div align="center">
