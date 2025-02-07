@@ -42,7 +42,7 @@
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/VSCode-23A9F2.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />&nbsp
+  <img src="https://img.shields.io/badge/VSCode-23A9F2.svg?style=for-the-badge&logo=vscode&logoColor=22ABF3" />&nbsp
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
 </div>
 
@@ -51,7 +51,7 @@
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="[https://velog.io/@oka1313](https://seon-xero.tistory.com/)">
-    <img src="https://img.shields.io/badge/Tstory-1EBC8F?style=for-the-badge&logo=티스토리&logoColor=white" />&nbsp
+    <img src="https://img.shields.io/badge/Tstory-1EBC8F?style=for-the-badge&logo=Tstory&logoColor=white" />&nbsp
   </a>
   <a href="mailto:seon.xero@gmail.com">
     <img
