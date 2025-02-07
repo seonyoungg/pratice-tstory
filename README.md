@@ -35,7 +35,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=fff" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20illustrator-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=fff" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20illustrator-08253c.svg?style=310104&logo=adobe%20photoshop&logoColor=fff" />&nbsp
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
