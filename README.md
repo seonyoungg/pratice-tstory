@@ -54,6 +54,6 @@
   </a>
   <a href="mailto:seon.xero@gmail.com">
     <img
-      src="https://img.shields.io/badge/seon.xero@gmail.com-F3F3F3?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/seon.xero@gmail.com-181717?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
