@@ -40,10 +40,10 @@
   <img src="https://img.shields.io/badge/figma-24CB71.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/VSCode-23A9F2.svg?style=for-the-badge&logo=vscode&logoColor=22ABF3" />&nbsp
+<!-- <div align="center"> -->
+<!--   <img src="https://img.shields.io/badge/VSCode-23A9F2.svg?style=for-the-badge&logo=vscode&logoColor=22ABF3" />&nbsp -->
 <!--   <img src="https://img.shields.io/badge/Colab-2C2C32.svg?style=for-the-badge&logo=googlecolab&logoColor=F9AB00" />&nbsp -->
-</div>
+<!-- </div> -->
 
 <br>
 
