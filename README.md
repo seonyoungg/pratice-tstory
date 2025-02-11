@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/ca40fdfb-12ed-486b-a15c-c0cfc608d494)<!--Header-->
+<!--Header-->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=SEONYOUNG&fontSize=80" />
 </div>
@@ -54,6 +54,6 @@
   </a>
   <a href="mailto:seon.xero@gmail.com">
     <img
-      src="https://img.shields.io/badge/seon.xero@gmail.com-101218?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/seon.xero@gmail.com-F3F3F3?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
